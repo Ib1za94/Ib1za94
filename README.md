@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ib1za94
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning Phyton(done), HTML+CSS(done), Javascript, React
+- 🌱 I’m currently learning Kotlin(done), Python(done) HTML+CSS(done), Android SDK
 - 💞️ I’m looking to collaborate on some interesting project where i can prove my skills or maybe training/fun/coding with other guys
 - 📫 U can reach me on telegram: @Ib1za_1
 Instagram: _ib1za_
