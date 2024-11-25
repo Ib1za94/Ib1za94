@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Ib1za94 and I'm Android Developer
-- 💪 I know Kotlin, Android SDK, and the main technology stack: Room, Jetpack Compose and so on
-- 👀 I'm looking for networking, communication, exchange of experience, interesting common projects (startups or pet projects)
+- 👋 Android Developer with 3+ years of experience delivering high-performance mobile applications. Skilled in optimizing app performance, improving user engagement, and delivering scalable, maintainable code. Strong track record of driving business impact through seamless user experiences and efficient development practices.
 - 📫 U can reach me on telegram: @Ib1za_1
 Instagram: _ib1za_
 Discord: _ib1za_
